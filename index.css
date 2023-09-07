@@ -1,0 +1,36 @@
+#num {
+    height: 80px;
+    width: auto;
+    border-color: white;
+
+}
+.label1{
+    margin-left: 10px;
+    color: white;
+}
+.label2{
+    margin-left: 270px;
+    color: white;
+}
+.label3{
+    margin-left: 100px;
+    color: white;
+}
+.label0 {
+    margin-left: 400px;
+    color: white;
+}
+body {
+    background-color:black;
+}
+.heading {
+    color: white;
+}
+.label4 {
+    color: white;
+}
+.again {
+    margin-left: 10px;
+    height: 50px;
+    width: 70px;
+}
